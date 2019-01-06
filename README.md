@@ -1,5 +1,7 @@
 # Confita's Prefixed Environment Backend
 
+__DEPRECATED__: in favor of https://github.com/thekondor/confita-sugar, which provides a more comprehensive solution.
+
 This code provides with a backend implementation of reading environment variables for [Confita library](https://github.com/heetch/confita). In contrast to the original Confita's one, this implementation allows to prefix/vendor environment variables to mitigate naming mess and make application's configuration more clear.
 
 # Example
